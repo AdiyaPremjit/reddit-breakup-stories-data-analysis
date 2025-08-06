@@ -1,2 +1,2 @@
 # reddit-data-analysis
-using dataset from reddit and analyzing the engagement  to the emotion of the posts
+Using a dataset from reddit of breakup story content, engagement metrics, and top user comments and analyzing using lexicon based sentiemnt tool to visualize the realtionship between upvotes and comment to the emotion of the stories
